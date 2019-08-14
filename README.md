@@ -1,2 +1,2 @@
-# data_structures_lab
+# Data Structures Lab
 Programs for Data Structures Lab
